@@ -24,7 +24,8 @@ a license from NIH. You can request it here:
 You have to specify the IP addresses from which you plan to download the data.
 
 
-License of this Download Script
--------------------------------
+License
+-------
 
-This download script is free software under the MIT License. See LICENSE.txt.
+This download script (should it ever get larger, so it would actually matter)
+is in the public domain. See LICENSE.txt.
